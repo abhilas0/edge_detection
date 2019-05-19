@@ -1,4 +1,4 @@
-## Edge Detection Using Sobel,Prewitt Operator and Laplacian Operator
+## Edge Detection Using Sobel,Prewitt and Laplacian Operator
 
 ### What is an Edge
 Area where there are extreme differences in the intensities of the pixel usually indicate an edge of an object.
