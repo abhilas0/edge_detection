@@ -1,6 +1,6 @@
 ## Edge Detection Using Sobel,Prewitt and Laplacian Operator
 
-### What is an Edge
+### What is an Edge?
 Area where there are extreme differences in the intensities of the pixel usually indicate an edge of an object.
 
 ### Types Of Edges
